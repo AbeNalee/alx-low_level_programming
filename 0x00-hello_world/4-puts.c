@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*
- * Function outputs a string
+/**
+ * main - Function outputs a string
  */
 int main(void)
 {
