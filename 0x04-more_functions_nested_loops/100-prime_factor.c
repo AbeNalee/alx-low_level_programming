@@ -21,5 +21,5 @@ int main(void)
 		divisor += 1;
 	}
 	printf("%ld\n", prime_large);
-return (0);
+	return (0);
 }
