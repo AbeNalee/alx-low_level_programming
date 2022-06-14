@@ -57,6 +57,3 @@ What you should learn from this project:
 * Write a keygen for crackme5.
 
 ---
-
-## Author
-* **Jhoan Stiven Zamora Caicedo** - [jzamora5](https://github.com/jzamora5)
